@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+.jumbotron {
+    text-align: left;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 100px;
+}

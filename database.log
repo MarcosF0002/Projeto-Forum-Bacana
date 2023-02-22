@@ -1,0 +1,11 @@
+mysqli_sql_exception: Can't create database 'trabalhoweb1'; database exists in C:\Users\55159\Desktop\projeto\Projeto web 1\createdb.php:10
+Stack trace:
+#0 C:\Users\55159\Desktop\projeto\Projeto web 1\createdb.php(10): mysqli_query(Object(mysqli), 'CREATE DATABASE...')
+#1 C:\Users\55159\Desktop\projeto\Projeto web 1\index.php(2): include_once('C:\\Users\\55159\\...')
+#2 {main}2023-02-22 01:01:43
+mysqli_sql_exception: Can't create database 'trabalhoweb1'; database exists in C:\Users\55159\Desktop\projeto\Projeto web 1\createdb.php:10
+Stack trace:
+#0 C:\Users\55159\Desktop\projeto\Projeto web 1\createdb.php(10): mysqli_query(Object(mysqli), 'CREATE DATABASE...')
+#1 C:\Users\55159\Desktop\projeto\Projeto web 1\index.php(2): include_once('C:\\Users\\55159\\...')
+#2 C:\Users\55159\Desktop\projeto\Projeto web 1\login.php(5): require('C:\\Users\\55159\\...')
+#3 {main}2023-02-22 01:01:52
